@@ -3,13 +3,22 @@
   "main": "./lib/move-fast",
   "version": "0.0.0",
   "description": "Move up/down by 5 lines",
-  "keywords": [
-  ],
-  "repository": "https://github.com/finalclass/move-fast",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finalclass/move-fast.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/finalclass/move-fast/issues"
+  },
+  "homepage": "https://github.com/finalclass/move-fast#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }
