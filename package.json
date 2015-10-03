@@ -1,7 +1,7 @@
 {
   "name": "move-fast",
   "main": "./lib/move-fast",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Move up/down by 5 lines",
   "keywords": [],
   "repository": {
