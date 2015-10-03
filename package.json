@@ -1,0 +1,15 @@
+{
+  "name": "move-fast",
+  "main": "./lib/move-fast",
+  "version": "0.0.0",
+  "description": "Move up/down by 5 lines",
+  "keywords": [
+  ],
+  "repository": "https://github.com/finalclass/move-fast",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

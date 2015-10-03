@@ -1,0 +1,3 @@
+'atom-text-editor':
+  'ctrl-up': 'move-fast:up'
+  'ctrl-down': 'move-fast:down'
